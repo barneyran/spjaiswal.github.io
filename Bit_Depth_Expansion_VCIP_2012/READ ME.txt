@@ -1,0 +1,54 @@
+
+These codes reproduce the results reported in publication "BIT-DEPTH EXPANSION USING MINIMUM RISK BASED CLASSIFICATION"
+
+This work is the analysis of bit-depth expansion method where we propose a better method and it also compares results of past algorithms to our proposed method. We calculate the results in terms of PSNR.For quantitative analysis we first downsample it to some lower bits and then reconstruct and compare with original.
+
+
+---------------------------------------------------------------------------
+ run file :
+
+1) run expander_3_2_8.m:: For 3 bit to 8 bit expansion : 
+
+   Original image of 8 bits is downsampled to 3 bits and reconstructed.
+
+2) run expander_4_2_6.m:: For 4 bit to 6 bit expansion : 
+
+   Original image of 6 bits is downsampled to 4 bits and reconstructed.
+
+3) run expander_4_2_8.m:: For 4 bit to 8 bit expansion : 
+
+   Original image of 8 bits is downsampled to 4 bits and reconstructed
+
+4) run expander_5_2_8.m:: For 5 bit to 8 bit expansion : 
+ 
+  Original image of 8 bits is downsampled to 5 bits and reconstructed
+
+5) run expander_6_2_8.m:: For 6 bit to 8 bit expansion : 
+
+  Original image of 8 bits is downsampled to 6 bits and reconstructed
+
+
+Note: We also implemented existing algorithm such as Zero Padding, Multiplication by Ideal Gain,
+      Bit replica for comparision in each file
+
+
+
+
+---------------------------------------------------------------------------
+
+Project page :http://ihome.ust.hk/~spjaiswal/Bit_Depth_Expansion.html
+
+---------------------------------------------------------------------------
+
+Please cite the following paper if you use this code for research purpose:
+
+Mittal, G.; Jakhetiya, V.; Jaiswal, S.P.; Au, O.C.; Tiwari, A.K.; Dai Wei, "Bit-depth expansion using Minimum Risk Based Classification," Visual Communications and Image Processing (VCIP), 2012 IEEE , vol., no., pp.1,5, 27-30 Nov. 2012, doi: 10.1109/VCIP.2012.6410837
+---------------------------------------------------------------------------
+
+Contact : (1) Gaurav Mittal (Email : gaurav.mittal@research.iiit.ac.in)
+              IIIT H, INDIA
+
+          (2) Sunil Jaiswal (Email : spjaiswal@ust.hk)
+             HKUST, HOng Kong
+
+

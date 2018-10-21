@@ -1,0 +1,170 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Publications</title>
+<link href="main.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+
+<div class="container">
+  <div class="header">
+
+    <p><span class="fltrtbot"> <img src="image/HKUST.gif" alt="HKUST"  height="70" align="right"  /></span>
+    <img src="image/HKUST_vew_Small.jpg" height="100" alt="HKUST view" /> </p>
+
+</div>
+
+<!--purple strip-->
+<div class="barBelowHeader"></div>
+
+
+  <div class="sidebar1">
+    <ul class="nav">
+      <li><a href="index.html"><strong>Home</strong></a></li>
+	  <li><a href="Academics.html"><strong>Academics</strong></a></li>
+	  <li><a href="teaching_activities.html"><strong>Teaching</strong></a></li>
+      <li><a href="publications.html"><strong>Publications</strong></a></li>
+      <li><a href="Research_experience.html"><strong>Research</strong></a></li>
+	  <li><a href="projects.html"><strong>Projects</strong></a></li>
+      <li><a href="gallery.html"><strong>Gallery</strong></a></li>     
+      <li><a href="contact.html"><strong>Contact</strong></a></li>
+    </ul>
+  <!-- end .sidebar1 --></div>
+  
+  
+  <div class="content">
+       
+<h2><strong>Conference Publications</strong>    </h2>
+<ol>
+
+<li>
+	<p class="MsoNormal" style="line-height: 200%; text-align:justify">
+	<font face="Georgia">Wenbo Liu, <b>Zhiding Yu</b>, Deyu Meng, “Joint 
+	Recognition / Segmentation with Cascaded Multi-level Feature Classification 
+	and Confidence Propagation,” <i>IEEE International Conference on Multimedia 
+	&amp; Expo</i> (<b>ICME</b>) 2013, San Jose, USA.</font></p></li>
+<li>
+
+
+<li>	 Haiyan YANG, Oscar C. Au, Jin ZENG, Mengqi JI, Yuan YUAN, <font color="blue">Sunil Prasad Jaiswal</font>" A Comprehensive Study on Digital
+ Image Matting," accepted for Publication in IEEE China Summit and International Conference on Signal and Information Processing (Chinasip), 
+ 9-12 July 2014, Xi'an, China.        	
+<p>&nbsp;</p>
+
+<li>	 Vinit Jakhetiya, Oscar C. Au, <font color="blue">Sunil Prasad Jaiswal</font>, Luheng Jia, Hong Zhang," Fast and efficient intra-frame deinterlacing using observation model based bilateral
+Filter," accepted for Publication in IEEE International Conference on Acoustics,
+Speech, and Signal Processing (ICASSP), 4-9 May 2014, Florence, Italy.        	
+<p>&nbsp;</p>
+
+<li>  Vinit Jakhetiya, Oscar C. Au, <font color="blue">Sunil Prasad Jaiswal</font>, Luheng Jia, Gaurav Mittal," Symmetrical predictor structure based Integrated lossy, near lossless / lossless
+coding of images," accepted for Publication in IEEE International Symposium
+on Circuits and Systems (ISCAS), 1-5 June 2014, Melbourne, Australia.
+<p>&nbsp;</p>
+
+<li>Vinit Jakhetiya, Oscar C. Au, <font color="blue">Sunil Prasad Jaiswal</font>, Luheng Jia, Manohar Kuse," Loss-
+less / near lossless compression using bilateral Filter and symmetrical structure
+based bias cancellation," accepted for Publication in International Symposium
+on Communications, Control, and Signal Processing, 21-23 May 2014, Athens,
+Greece.
+
+
+<p>&nbsp;</p>
+
+<li> <font color="blue">Sunil Prasad Jaiswal</font>, Oscar C. Au,Vinit Jakhetiya, Yuanfang Guo, Anil K.
+Tiwari, Kong Yue," efficient Adaptive Prediction Based Reversible Image Water-
+marking," Accepted in IEEE Internation Conference on Image Processing (ICIP)
+2013 held on Sept. 15-18, 2013 at Australia.
+
+<p>&nbsp;</p>
+
+<li> <font color="blue">Sunil Prasad Jaiswal</font>, Oscar C. Au, Juhi Bhadviya, Vinit Jakhetiya,  Yuan Yuan, Anil K.
+Tiwari, Kong Yue," An efficient two phase image interpolation algorithm based upon error feedback mechanism," Accepted in Signal Processing Systems (SiPS), 2013 IEEE Workshop on(SIPS)
+
+2013 held on Oct. 16-18, 2013 at Taiwan.
+
+<p>&nbsp;</p>
+<li> Juhi Bhadviya, <font color="blue">Sunil Prasad Jaiswal</font>, Vinit Jakhetiya, Anil Kumar Tiwari, "Exploita-
+tion of Temporal Redundancy for Lossless Video Coding," Published in 12th
+biennial IEEE APCCAS, 2-5 Dec 2012, Kaohsiung, Taiwan
+
+<p>&nbsp;</p>
+
+<li> Gaurav Mittal, Vinit Jakhetiya, <font color="blue">Sunil Prasad Jaiswal</font>, Oscar C. Au, "Bit-Depth Ex-
+pansion using Minimum Risk Based Classication," accepted in Visual Commu-
+nications and Image Processing Conference (VCIP), 27-30 Nov 2012, San Diego,
+USA. 
+
+<p>&nbsp;</p>
+<li> Vinit Jakhetiya, <font color="blue">Sunil Prasad Jaiswal</font>, Anil k. Tiwari, Oscar C. Au," Interpolation
+Based Symmetrical Predictor Structure For Lossless Image Coding," Published
+in IEEE International Symposium on Circuits and Systems (ISCAS), 20-23 May
+2012, Seoul, Korea.
+
+<p>&nbsp;</p>
+<li> <font color="blue">Sunil Prasad Jaiswal</font>, Vinit Jakhetiya, Ayush Kumar, Anil Kumar Tiwari, "A Low
+Complex Context Adaptive Image Interpolation Algorithm For Real-Time Applications.,"
+ Published in IEEE International Instrumentation and Measurement
+Technology Conference (I2MTC),2012, Graz, Austria.
+
+<p>&nbsp;</p>
+<li> <font color="blue">Sunil Prasad Jaiswal</font>, Vinit Jakhetiya, Anil Kumar Tiwari, Ashutosh Singla, "A Loss-
+less Image Prediction Algorithm using Slope Estimation and Least Square Op-
+timization.,"Published in IEEE International Instrumentation and Measurement
+Technology Conference (I2MTC),2012, Vienna, Austria.
+
+<p>&nbsp;</p>
+<li> <font color="blue">Sunil Prasad Jaiswal</font>, Gaurav Mittal, Vinit Jakhetiya, Anil Kumar Tiwari, "An efficient
+two pass lossless invisible watermarking algorithm for natural images,"Published
+in Systems International workshop on Signals and Image Processing (IWSSIP),
+2012, Austria.
+
+<p>&nbsp;</p>
+<li> Ashutosh Singla, Anil Kumar Tiwari,<font color="blue">Sunil Prasad Jaiswal</font>, Vinit Jakhetiya,
+"Adaptive Predictor Structures for Lossless Compression of Videos,"Published in
+Data Compression Conference (DCC), 2012, Snow-Bird USA.
+
+<p>&nbsp;</p>
+<li> <font color="blue">Sunil Prasad Jaiswal</font>, Vinit Jakhetiya, Anil k. Tiwari, "An Efficient Image Interpo-
+lation Algorithm Based upon the Switching and Self Learned Characteristics of
+Natural Images," published in IEEE International Symposium on Circuits and
+Systems (ISCAS), 2011, Brazil, 15-18 May.
+
+
+
+<p>&nbsp;</p>
+
+<li>  Vinit Jakhetiya, <font color="blue">Sunil Prasad Jaiswal</font>, Anil k. Tiwari, " A computationally efficient
+context based switched image interpolation algorithm for natural images", published in 28th IEEE International Instrumentation and Measurement Technology
+Conference (I2MTC) 2011, China, 10-12 May <a href="http://ihome.ust.hk/~vjakhetiya/amit.jpg"><font color="Blue">(Won Undergraduate Student
+Best Paper Award)</font>.
+</a></li>
+<p>&nbsp;</p>
+<li> Vinit Jakhetiya, <font color="blue">Sunil Prasad Jaiswal</font>, Anil k. Tiwari, "A Novel Predictor Coecient
+Interpolation Approach for Lossless Compression of Natural Images," published
+in 28th IEEE International Instrumentation and Measurement Technology Con-
+ference (I2MTC) 2011, China, 10-12 May.
+
+<p>&nbsp;</p>
+<li>  Vinit Jakhetiya, <font color="blue">Sunil Prasad Jaiswal</font>, Anil k. Tiwari, "A Novel Predictor Coe-
+cient Interpolation Approach for Enhancement of Spatial Resolution of Images,"
+published in IEEE APCCAS 2010, the 11th Biennial Asia Pacic Conference on
+Circuits and Systems, Kuala Lumpur, Malaysia, 6-9 Dec 2010.
+
+
+
+  
+         
+</ol>
+<p>  </p>
+<p>&nbsp;</p>
+
+ 
+  </div>
+ 
+ <div class="footer"></div>
+ 
+  <!-- end .container --></div>
+</body>
+</html>

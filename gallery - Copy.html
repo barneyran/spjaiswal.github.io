@@ -1,0 +1,156 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Photos</title>
+<link href="main.css" rel="stylesheet" type="text/css" />
+
+
+    <meta http-equiv="imagetoolbar" content="false">
+    <meta name="description" content="">
+    <meta name="keywords" content="">
+	<link href="Photos/galleria.css" rel="stylesheet" type="text/css">
+  	<!--link href="Photos/galleria.css" rel="stylesheet" type="text/css" media="screen"-->
+	<script type="text/javascript" src="Photos/jquery.min.js"></script>
+	<script type="text/javascript" src="Photos/jquery.galleria.js"></script>
+	<script type="text/javascript">
+	
+	
+	$(document).ready(function(){
+		
+		$('.gallery_demo_unstyled').addClass('gallery_demo'); // adds new class name to maintain degradability
+		$('.nav').css('display','none'); // hides the nav initially
+		
+		$('ul.gallery_demo').galleria({
+			history   : false, // deactivates the history object for bookmarking, back-button etc.
+			clickNext : false, // helper for making the image clickable. Let's not have that in this example.
+			insert    : '#main_image', // the containing selector for our main image. 
+								   // If not found or undefined (like here), galleria will create a container 
+								   // before the ul with the class .galleria_container (see CSS)
+			onImage   : function() { $('.nav').css('display','block'); } // shows the nav when the image is showing
+		});
+	});
+	
+	</script>
+	<style media="screen,projection" type="text/css">		
+
+	.caption{color:#444;position:relative;font-style:italic;}
+	.demo{position:relative;margin-top:2em;}
+	.gallery_demo{width:200px;float:left;}
+	.gallery_demo li{width:55px;height:70px;border:3px double #eee;margin: 0 2px 2px 0;background:#eee;}
+	.gallery_demo li.hover{border-color:#bbb;}
+	.gallery_demo li.active{border-style:solid;border-color:#222;}
+	.gallery_demo li div{left:240px}
+	.gallery_demo li div .caption{font:italic 0.7em/1.4 georgia,serif;}
+		
+	.info{text-align:left;margin:30px 0;border-top:1px dotted #221;padding-top:30px;clear:both;}
+	.info p{margin-top:1.6em;}
+	
+	#main_image{
+		margin:0 auto 60px auto;
+		height:438px;
+		width:auto;
+		background:white;
+		vertical-align: middle;
+		text-align:center;
+	}
+	
+	#main_image img{margin-bottom:10px; height:438px; width:auto; vertical-align: middle; text-align:center;}
+	
+    </style>
+    
+</head>
+
+
+
+
+
+
+
+
+
+
+<body>
+
+<div class="container">
+  <div class="header">
+
+    <p><span class="fltrtbot"> <img src="image/HKUST.gif" alt="HKUST"  height="70" align="right"  /></span>
+    <img src="image/HKUST_vew_Small.jpg" height="100" alt="HKUST view" /> </p>
+
+</div>
+
+<!--purple strip-->
+<div class="barBelowHeader"></div>
+
+
+  <div class="sidebar1">
+    <ul class="nav">
+      <li><a href="index.html"><strong>Home</strong></a></li>
+	  <li><a href="Academics.html"><strong>Academics</strong></a></li>
+	  <li><a href="teaching_activities.html"><strong>Teaching</strong></a></li>
+      <li><a href="publications.html"><strong>Publications</strong></a></li>
+      <li><a href="Research_experience.html"><strong>Research</strong></a></li>
+	  <li><a href="projects.html"><strong>Projects</strong></a></li>
+      <li><a href="gallery.html"><strong>Gallery</strong></a></li>       
+      <li><a href="contact.html"><strong>Contact</strong></a></li>
+    </ul>
+  <!-- end .sidebar1 --></div>
+  
+  
+<div class="content">
+  
+  <!--  滚动图片显示
+  <marquee behavior="scroll" direction="left" onmouseover="this.stop()" height="150" scrollamount="3" scrolldelay="3" onmouseout="this.start()" > 
+  <img src="Photos/2010-faculty.jpg" width="250" height="250" border="1" />
+  <img src="Photos/2011-faculty.jpg" width="250" height="250" border="1" />
+  <img src="Photos/2012-faculty.jpg" width="250" height="250" border="1" />  
+  </marquee>
+  -->
+  
+<div class="demo">
+<div id="main_image"></div>
+<p class="nav"><a href="#" onclick="$.galleria.prev(); return false;">previous</a> | <a href="#" onclick="$.galleria.next(); return false;">next</a></p>
+<ul class="gallery_demo_unstyled">
+	<li class="active">
+	   <img src="Shenzen.jpg" alt="Shenzen.jpg"  width="286" height="186" title="Shenzen, CHINA (MAY'2014)"></li>
+      <li><img src="Sunil_prasad_jaiswal_malaysia1.JPG" alt="Sunil_prasad_jaiswal_malaysia1.JPG"   title="Kota-kinabalu, Malaysia (Jan'2014)"></li>
+	<li><img src="Sunil_prasad_jaiswal_macau.jpg" alt="Sunil_prasad_jaiswal_macau.jpg" title="Macau (Dec'2013)"></li>
+	<li><img src="Sunil_prasad_jaiswal_hiking.JPG" alt="Sunil_prasad_jaiswal_hiking.JPG" title="Hiking, Hong Kong (Oct'2013)"></li>
+	<li><img src="Sunil_prasad_jaiswal_icip.jpg" alt="Sunil_prasad_jaiswal_icip.jpg" title="ICIP, Australia (Sept'2013)"></li>
+	<li><img src="Sunil_prasad_jaiswal_lab.JPG" alt="Sunil_prasad_jaiswal_lab.JPG" title="Lab Party, Hong Kong (June'2013)"></li>	
+	<li><img src="Amritsar.jpg" alt="Amritsar.jpg" title="Golden Temple, Amritsar (INDIA-June'2013)"></li>
+	<li><img src="Sunil_prasad_jaiswal_hk.JPG" alt="Sunil_prasad_jaiswal_hk.JPG" title="Hong Kong (Oct'2012)"></li>	
+	<li><img src="Sunil_prasad_jaiswal_graz.JPG" alt="Sunil_prasad_jaiswal_graz.JPG" title="Graz, Austria (May'2012)"></li>
+	<li><img src="Sunil_prasad_jaiswal_brno.JPG" alt="Sunil_prasad_jaiswal_brno.JPG" title="Brno, Czech Republic (July'2011)"></li>
+	<li><img src="Sunil_prasad_jaiswal_rio.JPG" alt="Sunil_prasad_jaiswal_rio.JPG" title="Rio De Janeiro, Brazil (May'2011)"></li>
+	<li><img src="Sunil_prasad_jaiswal_bbq.JPG" alt="Sunil_prasad_jaiswal_bbq.JPG" title="Barbeque party (LNMIIT-India'2011)"></li>
+	<li><img src="Sunil_prasad_jaiswal_study.jpg" alt="Sunil_prasad_jaiswal_study.jpg" title="Friends at LNMIIT-India'2011"></li>
+	<li><img src="TSK.JPG" alt="TSK.JPG" title="At my home town-Tinsukia, Assam'2011 (INDIA)"></li>
+	
+	
+	
+	
+	
+    
+	
+	
+	
+	
+    
+	
+	
+	
+    
+</ul>
+</div>
+
+  
+</div>
+ 
+ <div class="footer"></div>
+ 
+  <!-- end .container --></div>
+</body>
+</html>

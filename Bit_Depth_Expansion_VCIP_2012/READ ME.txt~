@@ -1,0 +1,17 @@
+=======================================================
+
+These codes reproduce the results reported in publication "BIT-DEPTH EXPANSION USING MINIMUM RISK BASED CLASSIFICATION"
+
+This work is the analysis of bit-depth expansion method where we propose a better method and it also compares results of past algorithms to our proposed method. We calculate the results in terms of PSNR. For quantitive analysis we first downsample it to some lower bits and then reconstruct and compare with original.
+
+These codes were written long ago so sorry for poor code quality(I was noob back then :P)
+
+These folder contains these 5 files
+
+1. expander_3_2_8.m (Original image of 8 bits is downsampled to 3 bits and reconstructed, PSNR also calculated)
+2. expander_4_2_6.m (Original image of 6 bits is downsampled to 4 bits and reconstructed, PSNR also calculated)
+3. expander_4_2_8.m (Original image of 8 bits is downsampled to 4 bits and reconstructed, PSNR also calculated)
+4. expander_5_2_8.m (Original image of 8 bits is downsampled to 5 bits and reconstructed, PSNR also calculated)
+5. expander_6_2_8.m (Original image of 8 bits is downsampled to 6 bits and reconstructed, PSNR also calculated)
+
+

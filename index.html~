@@ -1,0 +1,74 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Sunil Prasad Jaiswal</title>
+<link href="main.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+
+<div class="container">
+  <div class="header">
+
+    <p><span class="fltrtbot"> <img src="image/HKUST.gif" alt="HKUST"  height="70" align="right"  /></span>
+    <img src="image/HKUST_vew_Small.jpg" height="100" alt="HKUST view" /> </p>
+
+</div>
+
+<!--purple strip-->
+<div class="barBelowHeader"></div>
+
+
+  <div class="sidebar1">
+    <ul class="nav">
+      <li><a href="index.html"><strong>Home</strong></a></li>
+	  <li><a href="Academics.html"><strong>Academics</strong></a></li>
+	  <li><a href="Research_experience.html"><strong>Research</strong></a></li>
+      <li><a href="publications.html"><strong>Publications</strong></a></li>      
+	  <li><a href="projects.html"><strong>Projects</strong></a></li>
+      <li><a href="gallery.html"><strong>Gallery</strong></a></li>        
+      <li><a href="contact.html"><strong>Contact</strong></a></li>
+    </ul>
+  <!-- end .sidebar1 --></div>
+  
+  
+  <div class="content">
+     <h1><img src="DSC03129.JPG" alt="Sunil Jaiswal" width="286" height="186" hspace="0" vspace="10" align="right" /></h1>
+      <FONT FACE="Arial" size="2.5">
+	<h2>Sunil Prasad Jaiswal</h2>
+	    <div class="subs">&nbsp;&nbsp;&nbsp;<b>PhD. Candidate</b><br/>
+		&nbsp;&nbsp;&nbsp;	Multimedia Technology Research Center</b><br/>
+		&nbsp;&nbsp;&nbsp;	Department of Electronics & Computer Engineering (<a href="http://www.ece.ust.hk/ece.php" target="_blank">ECE</a>),</b><br/>
+		&nbsp;&nbsp;&nbsp;	School of Engineering (<a href="http://www.seng.ust.hk/web/eng/" target="_blank">SENG</a>), <a href="http://www.ust.hk" target="_blank">HKUST</a><br/>&nbsp;</div>
+        
+</p></p></p></p></p>
+
+
+    <h2>Biography</h2>
+    <p style="text-align:justify;">I am currently a Ph.D. candidate in Hong Kong University of Science & Technology (<a title="HKUST" href="http://www.ust.hk/eng/index.htm" target="_blank">HKUST</a>).
+		My supervisor is <a href="http://www.ece.ust.hk/ece.php/profile/facultydetail/eeau" target="_blank">Prof. Oscar Au</a> in <a href="http://www.ece.ust.hk/ece.php" target="_blank">ECE Dept</a> of the University. 
+		Since 2012, I am an active member of Multimedia Technology Research Center.
+		My research interests includes Image/Video processing, colour image processing.	
+</p>
+<p style="text-align:justify;">I completed my degree of Bachelors of Technology (Undergraduate) in Electronics and Communication Engineering, from The LNM Institute of 
+Information Technology (<a title="LNMIIT" href="http://lnmiit.ac.in/" target="_blank">LNMIIT</a>), Jaipur, India in 2012.
+</p>
+<p style="text-align:justify;"> During my bachelor degree, I worked as a Research Assistant in Center for Biomedical Image Analysis (<a title="CBIA" href="http://cbia.fi.muni.cz/" target="_blank">CBIA</a>) at Masaryk University, Czech Republic under the supervision
+of <a href="http://www.fi.muni.cz/~kozubek/" target="_blank">Dr. Michal Kozubek</a> and <a href="http://cbia.fi.muni.cz/staff.html" target="_blank"> 
+Dr.David Svoboda</a>. My Topic of research was Watermarking for 3D BioMedical images.
+
+<p style="text-align:justify;"> I also worked with <a href="http://www.iitj.ac.in:8080/iitf/view-profile.do?id=20" target="_blank">Prof. Anil K. Tiwari</a> 
+ at IIT Jodhpur (<a  title="IIT J" href="http://iitj.ac.in" target="_blank">IIT J</a>) where my topic of research was related to image interpolation, image compression. 
+ My CV can be accessed from here : <a href="sunil_new.pdf"target="_blank">[CV]</a>.
+ </p>
+ 
+ 
+
+  </div>
+ 
+ <div class="footer"></div>
+ 
+  <!-- end .container --></div>
+</body>
+</html>
